@@ -2,6 +2,11 @@
 
 フォント（ OTF / TTF ）と Web フォント（ WOFF / WOFF2 ）の相互変換コマンドです。
 
+## インストール
+```shell
+$ pip install git+https://github.com/higurashi-takuto/web-font-converter.git
+```
+
 ## コマンド説明
 ### wfc
 - 入力がフォントの場合は WOFF / WOFF2 を出力する。
